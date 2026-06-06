@@ -1,2 +1,2 @@
 # fallbacks
-Repo iatges &amp; docs
+Repo imatges & fallbacks & docs
